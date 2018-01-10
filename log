@@ -1,0 +1,189 @@
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+core.editor='C:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+core.autocrlf=true
+core.excludesfile=C:\Users\Jorge\Documents\gitignore_global.txt
+user.name=Jorge Fernandez
+user.email=jorge.fernandez107@alu.ulpgc.es
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	log
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+
+Initial commit
+
+Untracked files:
+	log
+
+nothing added to commit but untracked files present
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Capitulo-1.txt
+	Capitulo-2.txt
+	Capitulo-3.txt
+	Indice.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   Indice.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Capitulo-1.txt
+	Capitulo-2.txt
+	Capitulo-3.txt
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   Capitulo-1.txt
+	new file:   Capitulo-2.txt
+	new file:   Capitulo-3.txt
+	new file:   Indice.txt
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   Indice.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Capitulo-1.txt
+	Capitulo-2.txt
+	Capitulo-3.txt
+
+commit b75e87fe08f48e166b7caaa691fbff1e09511657
+Author: Jorge Fernandez <jorge.fernandez107@alu.ulpgc.es>
+Date:   Wed Jan 10 16:08:58 2018 +0000
+
+    COMMIT Inicial de mi libro
+b75e87f COMMIT Inicial de mi libro
+* b75e87f COMMIT Inicial de mi libro
+b75e87f (HEAD -> master) COMMIT Inicial de mi libro
+3551575 (HEAD -> master) Fichero Capitulo-3.txt creado
+e45a483 Fichero Capitulo-2.txt creado
+ff486f7 Fichero Capitulo-1.txt creado
+b75e87f COMMIT Inicial de mi libro
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   Capitulo-1.txt
+	modified:   Indice.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Capitulo-4.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+3adc444 (HEAD -> master) Fichero Capitulo-4.txt creado
+32fdac3 Fichero Indice.txt modificado
+718fe3f Fichero Capitulo-1.txt modificado
+3551575 Fichero Capitulo-3.txt creado
+e45a483 Fichero Capitulo-2.txt creado
+ff486f7 Fichero Capitulo-1.txt creado
+b75e87f COMMIT Inicial de mi libro
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   Indice.txt
+
+3adc444 Fichero Capitulo-4.txt creado
+32fdac3 Fichero Indice.txt modificado
+718fe3f Fichero Capitulo-1.txt modificado
+3551575 Fichero Capitulo-3.txt creado
+e45a483 Fichero Capitulo-2.txt creado
+ff486f7 Fichero Capitulo-1.txt creado
+b75e87f COMMIT Inicial de mi libro
+modificadomodificado71de837 UPDATE Capitulo-1 Primera version
+3adc444 Fichero Capitulo-4.txt creado
+32fdac3 Fichero Indice.txt modificado
+718fe3f Fichero Capitulo-1.txt modificado
+3551575 Fichero Capitulo-3.txt creado
+e45a483 Fichero Capitulo-2.txt creado
+ff486f7 Fichero Capitulo-1.txt creado
+b75e87f COMMIT Inicial de mi libro
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   Capitulo-1.txt
+	modified:   Indice.txt
+
+2e06449 Fichero Capitulo-4.txt modificado
+19720a6 Fichero Indice.txt modificado
+71de837 UPDATE Capitulo-1 Primera version
+3adc444 Fichero Capitulo-4.txt creado
+32fdac3 Fichero Indice.txt modificado
+718fe3f Fichero Capitulo-1.txt modificado
+3551575 Fichero Capitulo-3.txt creado
+e45a483 Fichero Capitulo-2.txt creado
+ff486f7 Fichero Capitulo-1.txt creado
+b75e87f COMMIT Inicial de mi libro
+modificado5e6fce6 Revert "Fichero Indice.txt modificado"
+2e06449 Fichero Capitulo-4.txt modificado
+19720a6 Fichero Indice.txt modificado
+71de837 UPDATE Capitulo-1 Primera version
+3adc444 Fichero Capitulo-4.txt creado
+32fdac3 Fichero Indice.txt modificado
+718fe3f Fichero Capitulo-1.txt modificado
+3551575 Fichero Capitulo-3.txt creado
+e45a483 Fichero Capitulo-2.txt creado
+ff486f7 Fichero Capitulo-1.txt creado
+b75e87f COMMIT Inicial de mi libro
